@@ -14,4 +14,4 @@ At the prompt, enter the number of credits refer, credit defer, credit fail for 
 
 The system will use the grades to classify each student.
 
-At last, password histogram will show how the students spread across the categories
+At last, password histogram will show how the students spread across the categories.
